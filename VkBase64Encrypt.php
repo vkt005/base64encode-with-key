@@ -1,8 +1,7 @@
 <?php 
-/*This class will help encrypting by using base64_encode and custom key
-*  @author vivek kumar tripathi <vivek@opensum.com>*
-*  @copyright  2007-2015 PrestaShop SA
-*  @license    http://opensource.org/licenses/osl-3.0.php  Open Software License (OSL 3.0)
+/*
+*This class will help encrypting by using base64_encode and custom key
+*  @author vivek kumar tripathi <vivek@opensum.com>
 */
 class  VkBase64Encrypt
 {
