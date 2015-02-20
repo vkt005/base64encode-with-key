@@ -1,7 +1,7 @@
 <?php 
 /*
 *This class will help encrypting by using base64_encode and custom key
-*  @author vivek kumar tripathi <vivek@opensum.com>
+*  @author vivek kumar tripathi <vkt005@gmail.com>
 */
 class  VkBase64Encrypt
 {
